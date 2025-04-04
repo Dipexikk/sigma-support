@@ -5,7 +5,7 @@ body {
     background: #111 url('/pngs/FixIT_background.jpg') no-repeat center center fixed;
     background-size: cover;
 }
-
+  
 header {
     display: flex;
     justify-content: space-between;
@@ -75,7 +75,7 @@ header nav ul li a {
 .form-section{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 100%;
     gap: 15px;
 }
 
